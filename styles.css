@@ -73,9 +73,9 @@
 
   .searchIcon{
     display: inline-block;
-    position: absolute;
-    top: 30px;
-    right: 240px;
+    position: relative;
+    top: 7px;
+    right: 20px;
     pointer-events: none;
     height: 15px;
     width: 16px;
