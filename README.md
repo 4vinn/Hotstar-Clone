@@ -1,6 +1,4 @@
-# Hotstar-Clone
+### Disney+ Hotstar Clone
 
-A Responsive 'Hotstar' landing web page build using HTML, CSS, Js.
-<br><br>
-
-<h4>Website- https://vineet-jakhar.github.io/Hotstar-Clone/ </h4>
+- Responsive 'Hotstar' landing web page build using HTML, CSS, Js.
+- Deployed on [GitHub Pages](https://4vinn.github.io/Hotstar-Clone/)
